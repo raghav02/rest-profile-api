@@ -29,4 +29,4 @@ Vagrant.configure("2") do |config|
       echo "alias python='python3'" >> /home/vagrant/.bash_aliases
     fi
   SHELL
- end
+ end 
